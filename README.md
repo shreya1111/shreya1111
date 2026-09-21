@@ -1,3 +1,5 @@
+<img width="400" height="225" alt="code" src="https://github.com/user-attachments/assets/3abf10d8-0f47-4b0b-a280-722e4441ad89" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Shreya%20Srivastava&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
