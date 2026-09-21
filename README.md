@@ -1,9 +1,8 @@
 <img width="1920" height="732" alt="17072685650061-ezgif com-resize" src="https://github.com/user-attachments/assets/510261c3-0848-4d52-a05c-f22beadad3d5" />
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Shreya%20Srivastava&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreya%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Systems&descAlignY=55&descSize=16" width="100%"/>
+  
 <br/>
 
 <a href="https://github.com/shreya1111">
