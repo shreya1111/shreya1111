@@ -1,7 +1,3 @@
-<img width="500" height="281" alt="AI Engineering Workspace" src="https://github.com/user-attachments/assets/3abf10d8-0f47-4b0b-a280-722e4441ad89" />
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=220&section=header&text=Shreya%20Srivastava&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
@@ -9,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/shreya1111">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Research+into+Real+Products;Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agents+%7C+FastAPI;Open+to+AI+%2F+ML+Engineering+Roles&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=38BDF8&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agents+%7C+FastAPI;Turning+Research+into+Real+Products;Open+to+AI+%2F+ML+Engineering+Roles&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=38BDF8&vCenter=true&size=22"/>
 </a>
 
 <br/><br/>
@@ -21,7 +17,6 @@
 </div>
 
 <br/>
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
